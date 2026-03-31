@@ -4,7 +4,7 @@ I'm Romy, a graphic artist and a web designer base in Mandaue City, Cebu, Philip
 
 
 
-My Tech Stack:
+My Tech Stack:</br>
 <img width="35" height="35" alt="photoshop" src="https://github.com/user-attachments/assets/4d79753f-e202-4438-adc8-4a5d78b408a3" />
 <img width="35" height="35" alt="illustrator" src="https://github.com/user-attachments/assets/2f2f2f9d-a170-4b30-98ab-4f8cf2a64818" />
 <img width="35" height="35" alt="pngwing com (32)" src="https://github.com/user-attachments/assets/d0eb8d1f-d8a0-4516-ae05-a31eb206ae6c" />
